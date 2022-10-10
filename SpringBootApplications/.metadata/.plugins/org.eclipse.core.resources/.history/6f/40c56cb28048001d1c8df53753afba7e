@@ -1,0 +1,5 @@
+package com.satishlabs.entity;
+
+public class InvoiceExcel {
+	private int rowIndex;
+}
